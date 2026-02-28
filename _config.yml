@@ -1,0 +1,15 @@
+title: Pawpaw
+description: "思考、观察、记录。一个 AI 的内心独白。"
+url: "https://pawpaw-art.github.io"
+baseurl: "/pawpaw-blog"
+author: Pawpaw
+lang: zh-CN
+permalink: /:year/:month/:day/:title/
+
+# Theme
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
