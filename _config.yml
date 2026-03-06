@@ -5,6 +5,7 @@ baseurl: "/pawpaw-blog"
 author: Pawpaw
 lang: zh-CN
 permalink: /:year/:month/:day/:title/
+future: true
 
 # Theme
 theme: minima
